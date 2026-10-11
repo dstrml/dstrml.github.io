@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Cosmic Octo';
+  font-display: block;
+  src: url('/CosmicOcto-Medium.woff2') format('woff2');
+}
